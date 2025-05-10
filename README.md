@@ -1,30 +1,61 @@
-# 👋 Hello, World! I'm NoobKingRsa
+# 👋 Hey there! I'm NoobKingRsa 👑
 
-Welcome to my GitHub profile! I'm excited to share my coding journey with you. Here's a little about me:
-
-## 🌟 About Me
-- I'm an enthusiastic developer who believes in continuous learning and growth.
-- I go by the name "Noob King" because I embrace the beginner's mindset—always curious, always learning. 👑
-- I enjoy diving into new technologies, solving problems, and collaborating on open-source projects.
-
-## 💻 What I Do
-- **Languages I Speak**: JavaScript, Python, HTML/CSS, and tinkering with new languages when I can.
-- **Technologies I Love**: GitHub Actions, React, Node.js, and anything that makes development fun and efficient.
-- **Things That Excite Me**: Web development, automation, and building tools to make life easier for developers.
-
-## 📂 Highlighted Projects
-Here are some of the cool things I’ve been working on:
-- **[Awesome Portfolio Website](https://NoobKingRsa.github.io/)**: My personal website where I showcase my work and experiments.
-- **[Open-Source Contributions](#)**: Contributing to projects that inspire me (coming soon!).
-
-## 🌱 Always Growing
-- Currently learning: TypeScript and Docker.
-- Future goals: Dive into AI/ML, contribute to more open-source projects, and build something impactful for the developer community.
-
-## 🌐 Let's Connect
-- **Website**: [NoobKingRsa.github.io](https://NoobKingRsa.github.io)
-- More ways to connect coming soon!
+Welcome to my little corner of GitHub! I'm on a mission to prove that you can build **a calculator in almost every programming language**—because why not?! 🤓 Here's a bit about me:
 
 ---
 
-Thanks for stopping by, and feel free to explore my repositories. Let’s build something amazing together! 🚀
+## 🌟 About Me
+- **Title**: Self-proclaimed King of Noobs! 👑 (Every expert was once a noob, right?)
+- **Philosophy**: If it doesn’t challenge you, it won’t change you. 💡
+- **Superpower**: Breaking things just to figure out how to fix them. 🚀
+- **Hobbies**: Coding calculators, collecting memes, and exploring the endless void of Stack Overflow.
+
+---
+
+## 🧮 The Great Calculator Challenge! 🤯
+
+I’ve set myself a quirky yet awesome goal: **Build a calculator in as many programming languages as possible!** Why? Because calculators are like the “Hello, World!” of problem-solving—simple, fun, and oddly satisfying. 😎  
+
+Here are my targets (so far):  
+
+| Language        | Plan                           | Status       |
+|-----------------|--------------------------------|--------------|
+| **Python**      | Command-line & tkinter GUI    | 🚧 In Progress |
+| **JavaScript**  | Web-based (HTML/CSS/JS)       | 🛠️ Coming Soon |
+| **C**           | Console-based calculator      | ✅ Version 1 Done! |
+| **C++**         | Console + GUI (Qt)            | 🛠️ Coming Soon |
+| **Java**        | Swing GUI calculator          | 🛠️ Coming Soon |
+| **Ruby**        | Sinatra web-based calculator  | 🛠️ Coming Soon |
+| **Swift**       | iOS app with SwiftUI          | 🛠️ Coming Soon |
+| **Kotlin**      | Android app                   | 🛠️ Coming Soon |
+| **Go**          | Command-line rocket speed 🚀  | 🛠️ Coming Soon |
+| **Rust**        | High-performance CLI calc     | 🛠️ Coming Soon |
+| **Shell Script**| Basic bash magic 🐚           | 🛠️ Coming Soon |
+
+...and the list keeps growing! If you have a favorite programming language, **challenge me** to make a calculator in it. I dare you! 😏  
+
+---
+
+## 💻 What I Code (Besides Calculators)
+- **Languages**: JavaScript, Python, C, C++, and a sprinkle of Rust and Go.
+- **Frameworks**: React, Node.js, and whatever shiny new thing catches my eye. ✨
+- **Favorite Tools**: GitHub Actions, Docker, and my trusty keyboard. ⌨️  
+
+---
+
+## 🌱 Currently Learning
+- **TypeScript**: Because JavaScript deserves some structure.  
+- **Docker**: Containers are cool. 🐳  
+- **AI/ML**: Maybe one day I'll make an AI that can code calculators for me. 🤖  
+
+---
+
+## 🌐 My Kingdom
+- **Website**: [NoobKingRsa.github.io](https://NoobKingRsa.github.io)  
+(*It’s basically where I flex my calculator creations and experiments. Go check it out!*)  
+
+---
+
+Thanks for scrolling this far! You’re awesome. 😄 Feel free to explore my repositories, star them (if you love them), or even better—collaborate with me!  
+
+Let’s build something amazing (and maybe a calculator or two). 🚀
