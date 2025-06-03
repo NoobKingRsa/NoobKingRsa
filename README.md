@@ -1,61 +1,87 @@
-# 👋 Hey there! I'm NoobKingRsa 👑
+# 👋 Yo! I'm NoobKingRsa 👑
 
-Welcome to my little corner of GitHub! I'm on a mission to prove that you can build **a calculator in almost every programming language**—because why not?! 🤓 Here's a bit about me:
+Welcome to the part of GitHub where payloads get spicy 🌶️ and “ethical hacking” means pushing limits—legally, of course. 😎
 
----
 
-## 🌟 About Me
-- **Title**: Self-proclaimed King of Noobs! 👑 (Every expert was once a noob, right?)
-- **Philosophy**: If it doesn’t challenge you, it won’t change you. 💡
-- **Superpower**: Breaking things just to figure out how to fix them. 🚀
-- **Hobbies**: Coding calculators, collecting memes, and exploring the endless void of Stack Overflow.
 
----
+## 🧠 About Me
+- **Title**: Self-proclaimed King of Noobs 👑 (Yes, still owning it)
+- **Mission**: Build & share powerful payloads for Ducky, Flipper, and beyond 🛠️
+- **Superpower**: Turning USBs into weapons (for good!) ⚔️
+- **Hobbies**: Breaking things (legally), bypassing UAC like it’s a game, and building tools for the underground—*above ground.* 🚀
 
-## 🧮 The Great Calculator Challenge! 🤯
 
-I’ve set myself a quirky yet awesome goal: **Build a calculator in as many programming languages as possible!** Why? Because calculators are like the “Hello, World!” of problem-solving—simple, fun, and oddly satisfying. 😎  
+## 💣 Payload Arsenal: Demo to Pro
 
-Here are my targets (so far):  
+I’ve switched from calculators to **custom payloads, ethical hacker kits**, and 🔥 **script bundles** for:
+- USB Rubber Ducky (inject.txt 💉)
+- Flipper Zero (IR, BT, GPIO payloads 🦾)
+- Reverse shells, credential grabbers, WiFi stealers, and more 🧩
 
-| Language        | Plan                           | Status       |
-|-----------------|--------------------------------|--------------|
-| **Python**      | Command-line & tkinter GUI    | 🚧 In Progress |
-| **JavaScript**  | Web-based (HTML/CSS/JS)       | 🛠️ Coming Soon |
-| **C**           | Console-based calculator      | ✅ Version 1 Done! |
-| **C++**         | Console + GUI (Qt)            | 🛠️ Coming Soon |
-| **Java**        | Swing GUI calculator          | 🛠️ Coming Soon |
-| **Ruby**        | Sinatra web-based calculator  | 🛠️ Coming Soon |
-| **Swift**       | iOS app with SwiftUI          | 🛠️ Coming Soon |
-| **Kotlin**      | Android app                   | 🛠️ Coming Soon |
-| **Go**          | Command-line rocket speed 🚀  | 🛠️ Coming Soon |
-| **Rust**        | High-performance CLI calc     | 🛠️ Coming Soon |
-| **Shell Script**| Basic bash magic 🐚           | 🛠️ Coming Soon |
+### 🧩 My Tools Include:
+| Toolset               | What it Does                             | Status       |
+|------------------------|------------------------------------------|--------------|
+| **Pro Payload Demo**   | Stealth payloads + listener setup        | ✅ Ready      |
+| **WiFi Dumper**        | Dumps saved WiFi creds from Windows      | ✅ Free/demo  |
+| **ReverseShell Pack**  | Background shells via PowerShell         | 🛠️ Growing   |
+| **Flipper Bundle**     | Payloads for IR spoofing, UART, and more | 🛠️ In progress |
+| **Custom Scripts**     | I build-to-order (DM me) 💌              | ✅ Accepting  |
 
-...and the list keeps growing! If you have a favorite programming language, **challenge me** to make a calculator in it. I dare you! 😏  
 
----
 
-## 💻 What I Code (Besides Calculators)
-- **Languages**: JavaScript, Python, C, C++, and a sprinkle of Rust and Go.
-- **Frameworks**: React, Node.js, and whatever shiny new thing catches my eye. ✨
-- **Favorite Tools**: GitHub Actions, Docker, and my trusty keyboard. ⌨️  
+## 💼 Services I Offer
 
----
+- 💻 **Custom Payloads** — Tell me the job, I’ll write the script.
+- 🎁 **Bundle Deals** — Full hacker kits for Ducky/Flipper (Demo + Pro).
+- 🧪 **Private Testing** — I test every script in VMs and real-world setups.
 
-## 🌱 Currently Learning
-- **TypeScript**: Because JavaScript deserves some structure.  
-- **Docker**: Containers are cool. 🐳  
-- **AI/ML**: Maybe one day I'll make an AI that can code calculators for me. 🤖  
 
----
 
-## 🌐 My Kingdom
-- **Website**: [NoobKingRsa.github.io](https://NoobKingRsa.github.io)  
-(*It’s basically where I flex my calculator creations and experiments. Go check it out!*)  
+## ⚖️ Stay Legal, Stay Smart
 
----
+> My tools are **for educational and authorized use only**. I don’t promote or support illegal activity. You are 100% responsible for how you use them.  
+Just don’t be a script kiddie 🙃
 
-Thanks for scrolling this far! You’re awesome. 😄 Feel free to explore my repositories, star them (if you love them), or even better—collaborate with me!  
 
-Let’s build something amazing (and maybe a calculator or two). 🚀
+
+## 📦 Pro Bundle Available Soon
+
+💸 $10 gets you:
+- 5+ payloads (WiFi snatchers, shell droppers, prank scripts)
+- Listener setup + step-by-step instructions
+- Ducky + Flipper compatible
+
+✨ Custom bundle? We build it your way.
+
+## 📬 Find Me
+
+- 🐙 GitHub: [@NoobKingRsa](https://github.com/NoobKingRsa)
+- 💬 Telegram: [@NoobKingRsa](https://t.me/NoobKingRsa)
+- 🛠️ Coming soon: Gumroad / Ko-fi store
+
+
+## 🍠 From Calculators to Payloads?
+
+Yes, I used to write calculators in 10+ languages.  
+Now I weaponize USBs. Growth. 👑
+
+> Let’s break systems — **ethically**. 🔐  
+> Let’s build something dangerous — **responsibly**. 💻  
+> Let’s rule the noobs — **royally**. 🛡️
+
+
+
+## 🌐 Website — Under Reconstruction 🧱💻
+
+I’m rebuilding [NoobKingRsa.github.io](https://NoobKingRsa.github.io) into a **hacker-themed hub** for:
+
+- Payload documentation 📚  
+- Flipper/Ducky script demos 🎮  
+- Custom order requests 🛠️  
+- Freebies + Pro packs 🧩  
+
+Expect chaos, dark mode, terminal vibes, and full-on payload energy. Stay tuned. 😈
+Thanks for stopping by!  
+Star my projects ⭐, fork what you love 🍴, and DM for collabs.
+
+
