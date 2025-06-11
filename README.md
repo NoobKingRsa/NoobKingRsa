@@ -1,87 +1,58 @@
-# 👋 Yo! I'm NoobKingRsa 👑
+# 👾 NoobKingRSA
 
-Welcome to the part of GitHub where payloads get spicy 🌶️ and “ethical hacking” means pushing limits—legally, of course. 😎
+**Mobile-First Developer — Coding, Building, and Automating with Only a Phone.**
 
+---
 
+> _You don’t need a PC to be a real developer. I build, script, automate, and ship projects — all from my Android phone. My mission: make coding and open source accessible from anywhere, for anyone!_
 
-## 🧠 About Me
-- **Title**: Self-proclaimed King of Noobs 👑 (Yes, still owning it)
-- **Mission**: Build & share powerful payloads for Ducky, Flipper, and beyond 🛠️
-- **Superpower**: Turning USBs into weapons (for good!) ⚔️
-- **Hobbies**: Breaking things (legally), bypassing UAC like it’s a game, and building tools for the underground—*above ground.* 🚀
+---
 
+## 🌟 What I Do
 
-## 💣 Payload Arsenal: Demo to Pro
+- **General Dev:** Python, Bash, web APIs, automation, and scripting — all tested and deployed on Android (Termux, Pydroid 3, etc).
+- **Mobile-First Projects:** Every tool, script, or bot here is made 100% on mobile and for mobile users.
+- **Learning & Sharing:** Guides, setup tips, and tricks for mobile devs, plus open source projects for everyone.
+- **Open Source for All:** No fancy hardware required — if you have a phone, you can build cool stuff.
 
-I’ve switched from calculators to **custom payloads, ethical hacker kits**, and 🔥 **script bundles** for:
-- USB Rubber Ducky (inject.txt 💉)
-- Flipper Zero (IR, BT, GPIO payloads 🦾)
-- Reverse shells, credential grabbers, WiFi stealers, and more 🧩
+---
 
-### 🧩 My Tools Include:
-| Toolset               | What it Does                             | Status       |
-|------------------------|------------------------------------------|--------------|
-| **Pro Payload Demo**   | Stealth payloads + listener setup        | ✅ Ready      |
-| **WiFi Dumper**        | Dumps saved WiFi creds from Windows      | ✅ Free/demo  |
-| **ReverseShell Pack**  | Background shells via PowerShell         | 🛠️ Growing   |
-| **Flipper Bundle**     | Payloads for IR spoofing, UART, and more | 🛠️ In progress |
-| **Custom Scripts**     | I build-to-order (DM me) 💌              | ✅ Accepting  |
+## 🚀 Featured Projects
 
+- [🔫 Domain Sniper](https://github.com/NoobKingRsa/domain-sniper): Scan & snipe domains directly from your phone!
+- **Script Toolbox:** Bash & Python utilities for devs, power users, and automators. _(Coming soon!)_
+- **Mini APIs & Bots:** Fun bots, quick APIs, and creative scripts for messaging, scraping, and more.
+- _More creative stuff in the works…_
 
+---
 
-## 💼 Services I Offer
+## 📱 My Mobile Dev Stack
 
-- 💻 **Custom Payloads** — Tell me the job, I’ll write the script.
-- 🎁 **Bundle Deals** — Full hacker kits for Ducky/Flipper (Demo + Pro).
-- 🧪 **Private Testing** — I test every script in VMs and real-world setups.
+- [Termux](https://termux.dev/) — Full Linux terminal on Android
+- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) — Python IDE
+- [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) — Code editor
+- [GitHub Mobile](https://play.google.com/store/apps/details?id=com.github.android) — Repo management
+- [JuiceSSH](https://juicessh.com/) — SSH into servers
 
+---
 
+## 📚 Guides & Resources
 
-## ⚖️ Stay Legal, Stay Smart
+> _Coming soon:_
+> - **Getting started with Termux**
+> - **Using Pydroid 3 for real projects**
+> - **Managing GitHub from your phone**
+> - **Tips for scripting, automation, and open source — all on Android**
 
-> My tools are **for educational and authorized use only**. I don’t promote or support illegal activity. You are 100% responsible for how you use them.  
-Just don’t be a script kiddie 🙃
+---
 
+## 🤝 Connect & Support
 
+- [GitHub](https://github.com/NoobKingRsa)
+- [Telegram](https://t.me/NoobKingRSA)
+- [YouTube](https://youtube.com/@NoobKingRSA)
+- [Buy Me a Coffee](https://coff.ee/noobkingrsz) — Support a mobile-only dev!
 
-## 📦 Pro Bundle Available Soon
+---
 
-💸 $10 gets you:
-- 5+ payloads (WiFi snatchers, shell droppers, prank scripts)
-- Listener setup + step-by-step instructions
-- Ducky + Flipper compatible
-
-✨ Custom bundle? We build it your way.
-
-## 📬 Find Me
-
-- 🐙 GitHub: [@NoobKingRsa](https://github.com/NoobKingRsa)
-- 💬 Telegram: [@NoobKingRsa](https://t.me/NoobKingRsa)
-- 🛠️ Coming soon: Gumroad / Ko-fi store
-
-
-## 🍠 From Calculators to Payloads?
-
-Yes, I used to write calculators in 10+ languages.  
-Now I weaponize USBs. Growth. 👑
-
-> Let’s break systems — **ethically**. 🔐  
-> Let’s build something dangerous — **responsibly**. 💻  
-> Let’s rule the noobs — **royally**. 🛡️
-
-
-
-## 🌐 Website — Under Reconstruction 🧱💻
-
-I’m rebuilding [NoobKingRsa.github.io](https://NoobKingRsa.github.io) into a **hacker-themed hub** for:
-
-- Payload documentation 📚  
-- Flipper/Ducky script demos 🎮  
-- Custom order requests 🛠️  
-- Freebies + Pro packs 🧩  
-
-Expect chaos, dark mode, terminal vibes, and full-on payload energy. Stay tuned. 😈
-Thanks for stopping by!  
-Star my projects ⭐, fork what you love 🍴, and DM for collabs.
-
-
+_Made with ☕, Python, and pure Android. No PC required. Ever._
